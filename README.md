@@ -8,12 +8,12 @@ I hope you will like what you are going to read ! I really enjoyed doing this, a
 
 I've chosen to write this in Python, so running it shouldn't be a big problem.
 Make sure the following files are in the same folder :
-	- datacollection.py
-	- functions.py
-	- datamining.py
-	- functions2.py
-	- listings_A.txt
-	- listings_B.txt
+- datacollection.py
+- functions.py
+- datamining.py
+- functions2.py
+- listings_A.txt
+- listings_B.txt
 
 `datacollection.py` tackles the first part of the homework, and `datamining.py` tackles the second part.
 On Linux, just run it using the usual command lines :
